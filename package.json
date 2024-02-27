@@ -1,0 +1,28 @@
+{
+  "name": "testprojem",  Kahr
+  "version": "1.0.2",
+  "description": "hercules test project ",  Kahr
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/HerculesNode/testprojem.git"  Kahr
+   },
+    "keywords": [
+    "test",     Kahr
+    "proje",    Kahr
+    "matsh"     Kahr
+  ],
+  "dependencies": {
+    "express":"latest",
+    "ejs":"latest"
+  },
+  "author": "Hercules",  Kahr
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/HerculesNode/testprojem/issues" <BURAYI DEÐÝÞTÝR>
+  },
+  "homepage": "https://github.com/HerculesNode/testprojem#readme" <BURAYI DEÐÝÞTÝR>
+}
